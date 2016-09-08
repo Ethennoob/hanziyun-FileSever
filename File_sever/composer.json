@@ -1,0 +1,8 @@
+{
+  "require": {
+    "monolog/monolog": "*" ,
+
+
+    "intervention/image": "^2.3"
+  }
+}
