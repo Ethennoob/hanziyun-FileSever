@@ -37,7 +37,7 @@ public static $allow_origin = array(
 ```PHP
   /**
   * PUT方法输入文件
-  * @author: 凌翔 <553299576@qq.com>
+  * @author: Ethen <553299576@qq.com>
   * @DateTime 2016-09-08T20:51:22+0800
   * @return   [type]                   [description]
   */
@@ -95,7 +95,7 @@ public static $allow_origin = array(
 
 	/**
 	 * 设定指针读流
-	 * @author: 凌翔 <553299576@qq.com>
+	 * @author: Ethen <553299576@qq.com>
 	 * @DateTime 2016-09-08T20:56:03+0800
 	 * @param    [type]                   $handle [指针]
 	 * @param    [type]                   $length [长度]
@@ -125,7 +125,7 @@ public static $allow_origin = array(
 ```PHP
   /**
 	 * 分块文件的处理
-	 * @author: 凌翔 <553299576@qq.com>
+	 * @author: Ethen <553299576@qq.com>
 	 * @DateTime 2016-09-08T20:57:49+0800
 	 * @param    [type]                   $uploadId   [description]
 	 * @param    [type]                   $partNumber [description]
