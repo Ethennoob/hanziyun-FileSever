@@ -29,7 +29,7 @@ public static $allow_origin = array(
 ### 第一步：
 * 通过PUT方法CDN将文件传输至此服务器,将先验证签名方法*__verifySignature()*
 * 此签名方法见下图
-![签名方法](http://playfun.oss-cn-shenzhen.aliyuncs.com/file/admin/category/2539_049C990035f63CA65DE0.png)
+![签名方法](https://doc.bce.baidu.com/bce-documentation/Reference/GenerateKeyProcess06.png?responseContentDisposition=attachment)
 :link:[详细签名认证字符串方法点此链接](https://cloud.baidu.com/doc/Reference/AuthenticationMechanism.html#.E7.94.9F.E6.88.90.E8.AE.A4.E8.AF.81.E5.AD.97.E7.AC.A6.E4.B8.B2)
 
 ### 第二步：
