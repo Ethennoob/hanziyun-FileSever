@@ -1,5 +1,5 @@
-# :cloud:hanziyun-FileSever 汉子云文件上传文件服务端程序
-File upload system power by CodeIgniter framework 基于PHP CI框架:cn:
+# :cloud:汉子云文件上传文件服务端程序
+hanziyun file sever processing program development by CodeIgniter framework 基于PHP CI框架:cn:
 
 ## :cyclone:简介
 ### 旨在于解决中小企业应用的文件传输问题:trollface:
