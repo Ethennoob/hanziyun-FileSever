@@ -8,6 +8,7 @@ hanziyun file sever processing program development by CodeIgniter framework 基�
 ## :cyclone:使用
 * 推荐部署在Linux服务器上
 * 设置必要参数
+
 ##### 在下面路径Controller文件中
 ```
 > phpfile\application\controllers\Stream.php
